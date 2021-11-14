@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: linear-gradient( 360deg, rgb(232, 203, 201) 11.2%, rgb(248, 128, 128) 91.1% );
 }
 
 .App-logo {
@@ -8,20 +9,27 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  /*.App-logo {*/
+  /*  animation: App-logo-spin infinite 20s linear;*/
+  /*}*/
 }
 
 .App-header {
-  background-color: #282c34;
+  /*background-color: #f88080;*/
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+}
+
+.App-header h1 {
   color: white;
+}
+
+.App-header h3 {
+  color: #764E4E;
 }
 
 .App-link {
