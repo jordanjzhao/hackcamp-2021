@@ -11,13 +11,6 @@
 
 <div align="center">Lippie helps people find lipstick shades they will love (with a discount, if they're lucky!), connect lipstick enthusiasts, and allow virtual try-on of shades.</div>
 
-# Table of Contents:
-- [UI Prototype](#ui-prototype)
-- [Programming Language used ](#programming-language-used)
-- [Members](#members-list)
-- [Devpost](#devpost)
-
-
 
 # Getting Started with Create React App
 
