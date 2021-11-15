@@ -1,3 +1,24 @@
+# <div align="center">Lippie</div>
+
+<div align="center">
+<svg width="91" height="91" viewBox="0 0 91 91" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="45.2143" cy="45.2143" r="45.2143" fill="#C4C4C4"/>
+<rect x="35.9109" y="39.2003" width="20.0756" height="34.7788" transform="rotate(41.1078 35.9109 39.2003)" fill="#3A3737"/>
+<rect x="51.0547" y="26.146" width="14.4205" height="27.4272" transform="rotate(41.1078 51.0547 26.146)" fill="#3A3737"/>
+<path d="M64.6683 16.6222L73.3529 18.4247L60.5458 33.1017L53.9413 27.3387L64.6683 16.6222Z" fill="#F88080"/>
+</svg>
+</div>
+
+<div align="center">Lippie helps people find lipstick shades they will love (with a discount, if they're lucky!), connect lipstick enthusiasts, and allow virtual try-on of shades.</div>
+
+# Table of Contents:
+- [UI Prototype](#ui-prototype)
+- [Programming Language used ](#programming-language-used)
+- [Members](#members-list)
+- [Devpost](#devpost)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
