@@ -1,11 +1,13 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 
+import '../style/landing.css'
+
 function Landing() {
 
     return (
-        <div>
-            <header className="App-header">
+        <div className="landing">
+            <header className="landing-header">
                 <Link to='/login'>
                     <svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="160.094" cy="160.094" r="159.906" fill="#C4C4C4"/>
@@ -17,7 +19,6 @@ function Landing() {
                               fill="#F88080"/>
                     </svg>
                 </Link>
-
                 <h1><i>Welcome to Lippie</i></h1>
                 <h3><i>Tap the icon to start</i></h3>
             </header>
