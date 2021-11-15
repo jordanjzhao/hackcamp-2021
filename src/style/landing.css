@@ -1,0 +1,21 @@
+.landing {
+    text-align: center;
+    background-image: linear-gradient( 360deg, rgb(232, 203, 201) 11.2%, rgb(248, 128, 128) 91.1% );
+}
+
+.landing-header {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+
+.landing-header h1 {
+    color: white;
+}
+
+.landing-header h3 {
+    color: #764E4E;
+}

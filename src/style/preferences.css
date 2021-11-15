@@ -1,0 +1,9 @@
+.preferences-dropdown {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.preferences-dropdown option {
+    height: 30vh;
+    width: 50vh;
+}
